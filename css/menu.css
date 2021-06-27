@@ -1,0 +1,16 @@
+img
+{
+	
+	width:250px;
+	height:250px;
+	border-color:black;
+	
+}
+img:hover {
+	width:310px;
+	height:310px;
+    border-width:10px;	
+    
+    border-color:green;
+    border-style:outset;
+}
